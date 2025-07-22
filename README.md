@@ -45,4 +45,3 @@ dotnet add package -v 6.0.24 Microsoft.EntityFrameworkCore.SqlServer
 ```bash
 dotnet add package Syncfusion.EJ2.AspNet.Core --version 24.1.43
 ```
-# Expense-Tracker
